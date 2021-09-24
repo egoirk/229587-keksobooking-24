@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Евгений Петров](https://up.htmlacademy.ru/javascript/24/user/229587).
-* Наставник: `Неизвестно`.
+- Студент: [Евгений Петров](https://up.htmlacademy.ru/javascript/24/user/229587).
+- Наставник: [Виктор Кан](https://htmlacademy.ru/profile/viktorkan).
 
 ---
 
