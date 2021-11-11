@@ -90,11 +90,11 @@ const PHOTOS = [
 
 const IMAGE_ID = [];
 const getAvatar = () => {
-  for (let i = 1; i <= 10; i++) {
-    if (i < 10) {
-      IMAGE_ID.push(`0${  i}`);
+  for (let iter = 1; iter <= 10; iter++) {
+    if (iter < 10) {
+      IMAGE_ID.push(`0${  iter}`);
     } else {
-      IMAGE_ID.push(i);
+      IMAGE_ID.push(iter);
     }
   }
   return IMAGE_ID;
